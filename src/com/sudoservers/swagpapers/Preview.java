@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.sudoservers.personal;
 
 import android.app.ActionBar;
 import android.app.Activity;
