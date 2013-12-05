@@ -242,6 +242,7 @@
         <wallpaper
             author="Will"
             url="http://sudoservers.com/photos/Allie/Will_img_20110912_173721.jpg" />
+            
     </category>
     
     <category name="Birthdays 2011" >
@@ -272,6 +273,7 @@
         <wallpaper
             author="Will"
             url="http://sudoservers.com/photos/Birthdays_2011/Will_img_20110911_002008.jpg" />
+            
     </category>
     
     <category name="Brewing" >
@@ -282,6 +284,7 @@
         <wallpaper
             author="Will"
             url="http://sudoservers.com/photos/Brewing/Will_2013-10-12_16.36.53.jpg" />
+            
     </category>
     
     <category name="Busch Gardens 2010">
@@ -427,7 +430,8 @@
 
         <wallpaper
             author="Will"
-            url="http://sudoservers.com/photos/Busch_Gardens_2010/Will_img_20101007_134203.jpg" />>
+            url="http://sudoservers.com/photos/Busch_Gardens_2010/Will_img_20101007_134203.jpg" />
+            
     </category>
     
     <category name="Christmas 2010" >
@@ -450,12 +454,14 @@
         <wallpaper
             author="Will"
             url="http://sudoservers.com/photos/Christmas_2010/Will_img_20101219_165135.jpg" />
+            
     </category>
     
-    <category name="Chistmas 2012" >
+    <category name="Christmas 2012" >
         <wallpaper
             author="Will"
             url="http://sudoservers.com/photos/Christmas_2012/Will_2012-12-29_18.53.56.jpg" />
+            
     </category>
     
     <category name="Josh" >
@@ -1467,72 +1473,7 @@
         <wallpaper
             author="Will"
             url="http://sudoservers.com/photos/Josh/Will_img_2870.jpg" />
-    </category>
-
-    <category name="Newest" >
-
-        <wallpaper
-            author="KhasMek"
-            url="http://aokp.co/wallpapers/khasmek_kcka.png" />
-
-        <wallpaper
-            author="KhasMek"
-            url="http://aokp.co/wallpapers/khasmek_kcka_dark.png" />
-
-        <wallpaper
-            author="c_hale22"
-            url="http://aokp.co/wallpapers/chale_unircorn1.png" />
-    </category>
-
-    <category name="Older Wallpapers" >
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
+            
     </category>
 
 </wallpapers>
